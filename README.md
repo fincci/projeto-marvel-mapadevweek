@@ -4,5 +4,5 @@
 
 ### Feito na MapaDev Week do curso DevQuest, utilizando JS, HTML e CSS.
 
-##Preview
+## Preview
 https://user-images.githubusercontent.com/97416122/172953848-eef295b0-8c58-4254-8582-7812b990d4b9.mp4
